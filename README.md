@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/flpdorea">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=flpdorea&show_icons=false&theme=graywhite&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&disable_animations=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flpdorea&layout=compact&langs_count=6&theme=graywhite&hide_border=true&disable_animations=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=flpdorea&show_icons=false&theme=graywhite&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&disable_animations=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flpdorea&langs_count=6&theme=graywhite&hide_border=true&disable_animations=true"/>
 </div>
   
 ##
