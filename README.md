@@ -38,5 +38,5 @@ Interested in:
 
 #
 
-[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Dórea-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flpdorea/)](https://www.linkedin.com/in/flpdorea/) 
-[![Gmail Badge](https://img.shields.io/badge/-felipeldorea@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipeldorea@gmail.com)](mailto:felipeldorea@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Dórea-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flpdorea/)](https://www.linkedin.com/in/flpdorea/) 
+[![Gmail Badge](https://img.shields.io/badge/-felipeldorea@gmail.com-DB4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipeldorea@gmail.com)](mailto:felipeldorea@gmail.com)
