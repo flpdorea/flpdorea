@@ -1,4 +1,4 @@
-# Felipe Dórea
+# Felipe Dórea 🇧🇷 
 
 Full stack developer and tech enthusiast.
 
