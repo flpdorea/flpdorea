@@ -38,7 +38,7 @@ Interested in:
 
 #
 
-[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Dórea-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flpdorea/)](https://www.linkedin.com/in/flpdorea/) 
-[![Gmail Badge](https://img.shields.io/badge/-felipeldorea@gmail.com-DB4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipeldorea@gmail.com)](mailto:felipeldorea@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/-Felipe%20Dórea-000000?style=flat-square&logo=Medium&logoColor=white&link=https://flpdorea.medium.com)](https://flpdorea.medium.com/)
-[![Twitter Badge](https://img.shields.io/badge/-Felipe%20Dórea-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/flpdorea)](https://twitter.com/flpdorea)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flpdorea/)](https://www.linkedin.com/in/flpdorea/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-DB4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipeldorea@gmail.com)](mailto:felipeldorea@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white&link=https://flpdorea.medium.com)](https://flpdorea.medium.com/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/flpdorea)](https://twitter.com/flpdorea)
