@@ -22,11 +22,14 @@ Experienced with:
 <img align="center" alt="Ubuntu" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
 
 Currently studying:
-<img align="center" alt="Docker" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img align="center" alt="Docker" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 <img align="center" alt="Jest" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 <img align="center" alt="React" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="AWS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+<img align="center" alt="AWS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
 <img align="center" alt="Next" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+<img align="center" alt="Kafka" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+<img align="center" alt="Nest" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+<img align="center" alt="Nginx" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
 
 Interested in:
 <img align="center" alt="Redis" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
