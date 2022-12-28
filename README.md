@@ -39,7 +39,6 @@ Interested in:
 <img align="center" alt="Electron" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
 <img align="center" alt="Kubernetes" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
 <img align="center" alt="GraphQL" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-<img align="center" alt="Adonis" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg">
 <img align="center" alt="Figma" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 <img align="center" alt="TailwindCSS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 
