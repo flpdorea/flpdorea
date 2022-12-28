@@ -20,6 +20,7 @@ Experienced with:
 <img align="center" alt="PostgreSQL" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="Linux" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img align="center" alt="Ubuntu" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+<img align="center" alt="Git" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
 Currently studying:
 <img align="center" alt="Docker" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
@@ -32,12 +33,15 @@ Currently studying:
 <img align="center" alt="Nginx" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
 
 Interested in:
+<img align="center" alt="Socketio" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
 <img align="center" alt="Redis" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
 <img align="center" alt="Redux" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-<img align="center" alt="ReactNative" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Electron" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
 <img align="center" alt="Kubernetes" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
 <img align="center" alt="GraphQL" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
+<img align="center" alt="Adonis" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg">
+<img align="center" alt="Figma" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+<img align="center" alt="TailwindCSS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 
 #
 
