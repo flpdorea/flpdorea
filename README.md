@@ -1,13 +1,13 @@
 # Felipe Dórea 🇧🇷 
 
-Full stack developer and tech enthusiast.
+Full stack developer and tech enthusiast. 🤖
 
 Keeping myself challenged and updated are my motivations. 🚀
 
 #
 
 ### Skills
-Experienced with:
+🎓 Experienced with:
 <img align="center" alt="JavaScript" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="HTML" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,7 +22,7 @@ Experienced with:
 <img align="center" alt="Ubuntu" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
 <img align="center" alt="Git" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
-Currently studying:
+📚 Currently studying:
 <img align="center" alt="Docker" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 <img align="center" alt="Jest" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 <img align="center" alt="React" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -32,7 +32,7 @@ Currently studying:
 <img align="center" alt="Nest" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
 <img align="center" alt="Nginx" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
 
-Interested in:
+📝 Interested in:
 <img align="center" alt="Socketio" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
 <img align="center" alt="Redis" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
 <img align="center" alt="Redux" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
