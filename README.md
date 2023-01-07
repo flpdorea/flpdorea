@@ -1,9 +1,7 @@
-# Felipe Dórea 🇧🇷 
+# Felipe Dórea 🇧🇷
 
 ### About me
-Full stack developer and tech enthusiast. 🤖
-
-Keeping myself challenged and updated are my motivations. 🚀
+Full stack developer and tech enthusiast. Keeping myself challenged and updated are my motivations. 🤖
 
 #
 
@@ -44,6 +42,7 @@ Keeping myself challenged and updated are my motivations. 🚀
 <img align="center" alt="TailwindCSS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 
 #
+
 ### Socials
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flpdorea/)](https://www.linkedin.com/in/flpdorea/) 
 [![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=flat&logo=Gmail&logoColor=white&link=mailto:felipeldorea@gmail.com)](mailto:felipeldorea@gmail.com)
