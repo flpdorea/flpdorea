@@ -30,6 +30,7 @@ Full stack developer and tech enthusiast. Keeping myself challenged and updated 
 [<img align="center" alt="Nest" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">](https://nestjs.com/)
 [<img align="center" alt="Nginx" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">](https://nginx.org/)
 [<img align="center" alt="Lua" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">](https://www.lua.org/)
+[<img align="center" alt="Bash" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
 📝 Interested in:
 [<img align="center" alt="Socketio" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">](https://socket.io/)
