@@ -47,6 +47,4 @@ Full stack developer and tech enthusiast. Keeping myself challenged and updated 
 ### Links
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flpdorea/)](https://www.linkedin.com/in/flpdorea/) 
 [![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=flat&logo=Gmail&logoColor=white&link=mailto:felipeldorea@gmail.com)](mailto:felipeldorea@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=Medium&logoColor=white&link=https://flpdorea.medium.com)](https://flpdorea.medium.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/flpdorea)](https://twitter.com/flpdorea)
 [![Resume](https://img.shields.io/badge/Resume-ffffff?style=flat&logo=googledrive&logoColor=black&link=https://drive.google.com/file/d/1Gg8-LmUmf5c6_q8ch50XS9Vy4jUrd4v2/view)](https://drive.google.com/file/d/1Gg8-LmUmf5c6_q8ch50XS9Vy4jUrd4v2/view)
