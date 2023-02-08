@@ -1,7 +1,7 @@
 # Felipe Dórea 🇧🇷
 
 ### About me
-Full stack developer and tech enthusiast. Keeping myself challenged and updated are my motivations. 🤖
+Writing some lines of code and doing some personal projects since 2017. <br>Interested in various multidisciplinary subjects. Keeping myself challenged and updated are motivations. <br>Currently seeking an exciting opportunity to work in the market as a entry-level full-stack web developer, to apply, share and evolve knowledge.
 
 #
 
@@ -19,6 +19,7 @@ Full stack developer and tech enthusiast. Keeping myself challenged and updated 
 [<img align="center" alt="PostgreSQL" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">](https://www.postgresql.org/)
 [<img align="center" alt="Linux" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">](https://en.wikipedia.org/wiki/Linux)
 [<img align="center" alt="Git" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">](https://git-scm.com/)
+[<img align="center" alt="Lua" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">](https://www.lua.org/)
 
 📚 Currently studying:
 [<img align="center" alt="Docker" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">](https://www.docker.com/)
@@ -29,7 +30,6 @@ Full stack developer and tech enthusiast. Keeping myself challenged and updated 
 [<img align="center" alt="Kafka" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">](https://kafka.apache.org/)
 [<img align="center" alt="Nest" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">](https://nestjs.com/)
 [<img align="center" alt="Nginx" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">](https://nginx.org/)
-[<img align="center" alt="Lua" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">](https://www.lua.org/)
 [<img align="center" alt="Bash" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
 📝 Interested in:
