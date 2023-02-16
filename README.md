@@ -1,7 +1,7 @@
 # Felipe Dórea 🇧🇷
 
 ### About me
-Writing some lines of code and doing some personal projects since 2017. <br>Interested in various multidisciplinary subjects. Keeping myself challenged and updated are motivations. <br>Currently seeking an exciting opportunity to work in the market as a entry-level full-stack web developer, to apply, share and evolve knowledge.
+Writing code and doing some personal projects since 2017. <br>Keeping myself challenged and updated are my motivations.
 
 #
 
@@ -20,10 +20,10 @@ Writing some lines of code and doing some personal projects since 2017. <br>Inte
 [<img align="center" alt="Linux" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">](https://en.wikipedia.org/wiki/Linux)
 [<img align="center" alt="Git" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">](https://git-scm.com/)
 [<img align="center" alt="Lua" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">](https://www.lua.org/)
+[<img align="center" alt="Jest" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">](https://jestjs.io/)
 
 📚 Currently studying:
 [<img align="center" alt="Docker" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">](https://www.docker.com/)
-[<img align="center" alt="Jest" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">](https://jestjs.io/)
 [<img align="center" alt="React" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">](https://reactjs.org/)
 [<img align="center" alt="AWS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">](https://aws.amazon.com/)
 [<img align="center" alt="Next" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">](https://nextjs.org/)
@@ -31,12 +31,12 @@ Writing some lines of code and doing some personal projects since 2017. <br>Inte
 [<img align="center" alt="Nest" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">](https://nestjs.com/)
 [<img align="center" alt="Nginx" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">](https://nginx.org/)
 [<img align="center" alt="Bash" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[<img align="center" alt="Electron" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">](https://www.electronjs.org/)
 
 📝 Interested in:
 [<img align="center" alt="Socketio" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">](https://socket.io/)
 [<img align="center" alt="Redis" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">](https://redis.io/)
 [<img align="center" alt="Redux" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">](https://redux.js.org/)
-[<img align="center" alt="Electron" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">](https://www.electronjs.org/)
 [<img align="center" alt="Kubernetes" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">](https://kubernetes.io/)
 [<img align="center" alt="GraphQL" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">](https://graphql.org/)
 [<img align="center" alt="Figma" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">](https://www.figma.com/)
