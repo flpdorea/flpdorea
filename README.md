@@ -22,17 +22,18 @@ Writing code and doing some personal projects since 2017.
 [<img align="center" alt="Git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">](https://git-scm.com/)
 [<img align="center" alt="Lua" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">](https://www.lua.org/)
 [<img align="center" alt="Jest" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">](https://jestjs.io/)
+[<img align="center" alt="Docker" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">](https://www.docker.com/)
 
 📚 Currently studying:
-[<img align="center" alt="Docker" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">](https://www.docker.com/)
 [<img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">](https://reactjs.org/)
-[<img align="center" alt="AWS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">](https://aws.amazon.com/)
 [<img align="center" alt="Next" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">](https://nextjs.org/)
-[<img align="center" alt="Kafka" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">](https://kafka.apache.org/)
+[<img align="center" alt="TailwindCSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">](https://tailwindcss.com/)
+[<img align="center" alt="Electron" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">](https://www.electronjs.org/)
 [<img align="center" alt="Nest" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">](https://nestjs.com/)
+[<img align="center" alt="AWS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">](https://aws.amazon.com/)
+[<img align="center" alt="Kafka" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">](https://kafka.apache.org/)
 [<img align="center" alt="Nginx" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">](https://nginx.org/)
 [<img align="center" alt="Bash" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-[<img align="center" alt="Electron" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">](https://www.electronjs.org/)
 
 📝 Interested in:
 [<img align="center" alt="Socketio" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">](https://socket.io/)
@@ -41,7 +42,6 @@ Writing code and doing some personal projects since 2017.
 [<img align="center" alt="Kubernetes" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">](https://kubernetes.io/)
 [<img align="center" alt="GraphQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">](https://graphql.org/)
 [<img align="center" alt="Figma" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">](https://www.figma.com/)
-[<img align="center" alt="TailwindCSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">](https://tailwindcss.com/)
 
 #
 
