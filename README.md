@@ -25,6 +25,8 @@ Writing code and doing some personal projects since 2017.
 [<img align="center" alt="Docker" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">](https://www.docker.com/)
 
 📚 Currently studying:
+[<img align="center" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">](https://www.java.com/)
+[<img align="center" alt="Spring" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">](https://spring.io/)
 [<img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">](https://reactjs.org/)
 [<img align="center" alt="Next" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">](https://nextjs.org/)
 [<img align="center" alt="TailwindCSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">](https://tailwindcss.com/)
