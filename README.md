@@ -14,8 +14,8 @@ Writing code and doing some personal projects since 2017.
 [<img align="center" alt="TypeScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">](https://www.typescriptlang.org/)
 [<img align="center" alt="NodeJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">](https://nodejs.org/)
 [<img align="center" alt="Express" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">](https://expressjs.com/)
-[<img align="center" alt="MongoDB" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">](https://www.mongodb.com/)
 [<img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">](https://www.python.org/)
+[<img align="center" alt="MongoDB" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">](https://www.mongodb.com/)
 [<img align="center" alt="MySQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">](https://www.mysql.com/)
 [<img align="center" alt="PostgreSQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">](https://www.postgresql.org/)
 [<img align="center" alt="Linux" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">](https://en.wikipedia.org/wiki/Linux)
@@ -23,6 +23,8 @@ Writing code and doing some personal projects since 2017.
 [<img align="center" alt="Lua" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">](https://www.lua.org/)
 [<img align="center" alt="Jest" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">](https://jestjs.io/)
 [<img align="center" alt="Docker" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">](https://www.docker.com/)
+[<img align="center" alt="Bash" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[<img align="center" alt="Nest" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">](https://nestjs.com/)
 
 📚 Currently studying:
 [<img align="center" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">](https://www.java.com/)
@@ -31,11 +33,9 @@ Writing code and doing some personal projects since 2017.
 [<img align="center" alt="Next" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">](https://nextjs.org/)
 [<img align="center" alt="TailwindCSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">](https://tailwindcss.com/)
 [<img align="center" alt="Electron" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">](https://www.electronjs.org/)
-[<img align="center" alt="Nest" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">](https://nestjs.com/)
 [<img align="center" alt="AWS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">](https://aws.amazon.com/)
 [<img align="center" alt="Kafka" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">](https://kafka.apache.org/)
 [<img align="center" alt="Nginx" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">](https://nginx.org/)
-[<img align="center" alt="Bash" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
 📝 Interested in:
 [<img align="center" alt="Socketio" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">](https://socket.io/)
