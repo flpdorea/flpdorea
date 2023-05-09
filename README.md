@@ -1,7 +1,7 @@
 # Felipe Dórea 🇧🇷
 
 ### About me
-I am an early-career software engineer currently pursuing a degree in Systems Analysis and Development. I have a strong focus on back-end development and a passion for technologies such as JavaScript/TypeScript, Nest.js, Java, and Spring.
+I am an early-career software engineer currently pursuing a degree in Systems Analysis and Development. I have a strong focus on back-end development and a passion for technologies such as JavaScript/TypeScript, Nest.js, Java and Spring.
 
 #
 
