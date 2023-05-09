@@ -1,8 +1,7 @@
 # Felipe Dórea 🇧🇷
 
 ### About me
-Writing code and doing some personal projects since 2017.
-<br>Keeping myself challenged and updated are my motivations.
+I am an early-career software engineer currently pursuing a degree in Systems Analysis and Development. I have a strong focus on back-end development and a passion for technologies such as JavaScript/TypeScript, Nest.js, Java, and Spring.
 
 #
 
@@ -11,6 +10,7 @@ Writing code and doing some personal projects since 2017.
 [<img align="center" alt="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">](https://reactjs.org/)
 [<img align="center" alt="TypeScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">](https://www.typescriptlang.org/)
 [<img align="center" alt="NodeJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">](https://nodejs.org/)
 [<img align="center" alt="Express" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">](https://expressjs.com/)
@@ -29,10 +29,6 @@ Writing code and doing some personal projects since 2017.
 📚 Currently studying:
 [<img align="center" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">](https://www.java.com/)
 [<img align="center" alt="Spring" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">](https://spring.io/)
-[<img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">](https://reactjs.org/)
-[<img align="center" alt="Next" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">](https://nextjs.org/)
-[<img align="center" alt="TailwindCSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">](https://tailwindcss.com/)
-[<img align="center" alt="Electron" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">](https://www.electronjs.org/)
 [<img align="center" alt="AWS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">](https://aws.amazon.com/)
 [<img align="center" alt="Kafka" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">](https://kafka.apache.org/)
 [<img align="center" alt="Nginx" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">](https://nginx.org/)
@@ -40,10 +36,8 @@ Writing code and doing some personal projects since 2017.
 📝 Interested in:
 [<img align="center" alt="Socketio" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">](https://socket.io/)
 [<img align="center" alt="Redis" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">](https://redis.io/)
-[<img align="center" alt="Redux" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">](https://redux.js.org/)
 [<img align="center" alt="Kubernetes" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">](https://kubernetes.io/)
 [<img align="center" alt="GraphQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">](https://graphql.org/)
-[<img align="center" alt="Figma" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">](https://www.figma.com/)
 
 #
 
