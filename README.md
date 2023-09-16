@@ -22,7 +22,7 @@ Experienced with:
 [<img align="center" alt="Bash" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 [<img align="center" alt="Nest" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">](https://nestjs.com/)
 
-*Currently studying: *
+Currently studying: 
 [<img align="center" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">](https://www.java.com/)
 [<img align="center" alt="Spring" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">](https://spring.io/)
 [<img align="center" alt="AWS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">](https://aws.amazon.com/)
