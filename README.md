@@ -1,12 +1,8 @@
-# Felipe Dórea 🇧🇷
-
-### About me
+# About me
 I am an early-career software engineer currently pursuing a degree in Systems Analysis and Development. I have a strong focus on back-end development and a passion for technologies such as JavaScript/TypeScript, Nest.js, Java and Spring.
 
-#
-
-### Skills
-🎓 Experienced with:
+# Skills
+Experienced with: 
 [<img align="center" alt="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -26,22 +22,15 @@ I am an early-career software engineer currently pursuing a degree in Systems An
 [<img align="center" alt="Bash" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 [<img align="center" alt="Nest" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">](https://nestjs.com/)
 
-📚 Currently studying:
+*Currently studying: *
 [<img align="center" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">](https://www.java.com/)
 [<img align="center" alt="Spring" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">](https://spring.io/)
 [<img align="center" alt="AWS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">](https://aws.amazon.com/)
 [<img align="center" alt="Kafka" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">](https://kafka.apache.org/)
 [<img align="center" alt="Nginx" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">](https://nginx.org/)
 
-📝 Interested in:
+Interested in: 
 [<img align="center" alt="Socketio" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">](https://socket.io/)
 [<img align="center" alt="Redis" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">](https://redis.io/)
 [<img align="center" alt="Kubernetes" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">](https://kubernetes.io/)
 [<img align="center" alt="GraphQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">](https://graphql.org/)
-
-#
-
-### Links
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flpdorea/)](https://www.linkedin.com/in/flpdorea/) 
-[![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felipeldorea@gmail.com)](mailto:felipeldorea@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-ffffff?style=for-the-badge&logo=googledrive&logoColor=black&link=https://drive.google.com/file/d/1Gg8-LmUmf5c6_q8ch50XS9Vy4jUrd4v2/view)](https://drive.google.com/file/d/1Gg8-LmUmf5c6_q8ch50XS9Vy4jUrd4v2/view)
