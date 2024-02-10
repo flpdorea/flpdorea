@@ -11,6 +11,7 @@ Experienced with:
 [<img align="center" alt="NodeJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">](https://nodejs.org/)
 [<img align="center" alt="Express" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">](https://expressjs.com/)
 [<img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">](https://www.python.org/)
+[<img align="center" alt="C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">](https://en.wikipedia.org/wiki/C_(programming_language))
 [<img align="center" alt="MongoDB" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">](https://www.mongodb.com/)
 [<img align="center" alt="MySQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">](https://www.mysql.com/)
 [<img align="center" alt="PostgreSQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">](https://www.postgresql.org/)
